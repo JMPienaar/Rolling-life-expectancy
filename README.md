@@ -13,4 +13,3 @@ The result of this calculation at age 0 is implemented in a single cell (C19)
 Compared to the stepwise result (C18)	
 The results for 2015-19(C3:C7) are plotted against the WHO annual published LE (Sheet:WHO LE) for selected countries (Sheet:Mortality rates)) 			
 Sheet:Plot shows R^2 for each country. Also displayed in Sheet:Method by selecting a country in B1			
-![image](https://user-images.githubusercontent.com/78965626/212246463-918f218d-15fa-4534-8287-59ba5e39177d.png)
