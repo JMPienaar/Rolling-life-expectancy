@@ -1,6 +1,6 @@
 # Rolling-life-expectancy
 
-Refer to sheet "Method" in LE Method.xlsx			
+Refer to Sheet:Method in LE Method.xlsx			
 			
 Col. M 	Age-bands: Age bands identified by age at start
 
